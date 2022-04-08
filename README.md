@@ -1,5 +1,5 @@
 <h1>Exercicios_em_C<h1>
-<h2>📝Listas de exercicios em C++<h3>
+<h3>📝Listas de exercicios em C++<h3>
 <hr>
 <h3>Neste repositório contém exercicíos resolvidos em C++, o principal objetivo do repositório e exemplificar soluções para algoritmos, explorando as principais estruturas  básicas de controle.<h3>
 <hr>
